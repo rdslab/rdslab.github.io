@@ -14,7 +14,6 @@
   * [xxx](blog/2book/info-fragmentation-age-remark.md)
 
 [Documents]()
-
 [Courses]()
 
   * ### 2019
