@@ -15,7 +15,7 @@
 
 [Documents]()
   * [paper]
-  ----
+  - - - -
   * [config]
 
 [Courses]()
