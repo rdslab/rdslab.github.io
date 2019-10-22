@@ -12,13 +12,11 @@
   - - - -
   * ### Undergraduate   
   * [xxx](blog/2book/info-fragmentation-age-remark.md)
-- - - -
+
 [Documents]()
-  * [paper]()
-  - - - -
-  * [config]()
 
 [Courses]()
+
   * ### 2019
   * [Web Application Development](blog/2book/books.md)
   * [Hands on of Software Engineering]()
